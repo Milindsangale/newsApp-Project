@@ -1,4 +1,4 @@
-/* import PropTypes from 'prop-types' */
+/* import PropTypes from 'prop-types' */      /* rce */
 import React, { Component } from 'react'
 
 class Navbar extends Component {
