@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 10947,
+    "articles": [
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Makena Kelly, Joel Khalili",
+        "title": "The Crypto Industry Is Helping Trump Pick SEC Chair",
+        "description": "The president-elect's transition team is consulting with industry leaders as it vets potential replacements for outgoing chair Gary Gensler, sources tell WIRED.",
+        "url": "https://www.wired.com/story/crypto-candidates-front-runners-sec-race/",
+        "urlToImage": "https://media.wired.com/photos/6745db10e149b18ca8e2b8d8/191:100/w_1280,c_limit/GettyImages-93181618.jpg",
+        "publishedAt": "2024-11-26T16:23:34Z",
+        "content": "In July, at a bitcoin conference in Nashville, Tennessee, Trump pledged to fire Gensler if reelected, drawing perhaps the most raucous applause of the night. I will appoint an SEC chair who will buil… [+2635 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matthew Gault",
+        "title": "Bitcoin ATM Security Breach Compromised Social Security Numbers and Government IDs",
+        "description": "Byte Federal operates 1,200 Bitcoin ATMs in the U.S. A data breach comprised 58,000 customer's information.",
+        "url": "https://gizmodo.com/bitcoin-atm-security-breach-comprised-customers-price-of-bitcoin-2000537845",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/BitcoinATM.jpg",
+        "publishedAt": "2024-12-12T15:30:41Z",
+        "content": "A massive data breach hit Bitcoin ATM company Byte Federal, compromising user information including their social security number, transaction history, and even photographs. If youve done business wit… [+3733 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Bitcoin buyer sues council over £600m 'lost in tip'",
+        "description": "James Howells believes the hard drive is now worth about £600m since the recent Bitcoin surge.",
+        "url": "https://www.bbc.com/news/articles/c77jx4d5748o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1307/live/3ed38ef0-b18a-11ef-9049-eda50882c74d.jpg",
+        "publishedAt": "2024-12-03T15:41:59Z",
+        "content": "James Howells addressed the press outside court on Tuesday\r\nA man trying to recover a Bitcoin hard drive in a landfill site which he says is now worth about £600m is \"seeking to bribe the council\", i… [+2854 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matthew Gault",
+        "title": "Laptop That Helped Bring Down Bitcoin Thief ‘Razzlekhan’ Is Now in the Smithsonian",
+        "description": "The museum's monetary collection has struggled with how to display cryptocurrency, but a federal agent's laptop is helping to shape our understanding of the future of money.",
+        "url": "https://gizmodo.com/laptop-that-helped-bring-down-bitcoin-thief-razzlekhan-is-now-in-the-smithsonian-2000526991",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/11/Razzlekahn.jpg",
+        "publishedAt": "2024-11-20T15:30:40Z",
+        "content": "The National Numismatic Collection at the Smithsonian Museum is a catalog of money. It houses gold bars, 600,000 Confederate banknotes, and gold coins from the 14th century. Now it also houses a MacB… [+3643 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Cheryl Teh",
+        "title": "A man hid 5 boxes across the US with more than $2 million worth of treasure inside",
+        "description": "An early bitcoin investor concealed the chests, which include bitcoin, antiques, and an emerald, and published a book with clues to find them.",
+        "url": "https://www.businessinsider.com/jon-collins-black-treasure-boxes-usa-treasure-hunt-bitcoin-2024-11",
+        "urlToImage": "https://i.insider.com/673659c5fa0140cdd5638eeb?width=1024&format=jpeg",
+        "publishedAt": "2024-11-20T00:00:01Z",
+        "content": "Jon Collins-Black, a musician and early bitcoin investor, went on a five-year-long quest to bury treasure across the US.Jon Collins-Black\r\n\u003Cul\u003E\u003Cli\u003EJon Collins-Black has hidden five treasure chests ac… [+3917 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "Holly J. Morris",
+        "title": "Who or what else did President Biden pardon? Find out in the quiz!",
+        "description": "Also in your grab bag of weekly trivia: martial law, bitcoin, the first lady's holiday décor, a Kennedy who's not RFK Jr., brain rot and the popemobile.",
+        "url": "https://www.npr.org/2024/12/05/g-s1-36758/biden-pardon-bitcoin-brainrot-south-korea-pantone",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/11308x6361+0+2/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2F41%2Fd7dc88204978a7b99f4cd16d8366%2Fbiden-pope-biden.jpg",
+        "publishedAt": "2024-12-06T10:01:00Z",
+        "content": "In a refreshing change of pace, the presidents of the U.S. and South Korea dominated the news this week. Are pardons and martial law the shape of things to come? No comment!\r\nPlus, dark chocolate is … [+209 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Dan DeFrancesco",
+        "title": "Trump's SEC pick and Bitcoin's $100K milestone are two big wins for the crypto community",
+        "description": "Trump nominated Paul Atkins, who has been a member of the Token Alliance since 2017, to SEC chair. Bitcoin surpassed $100,000 for the first time.",
+        "url": "https://www.businessinsider.com/trump-sec-pick-paul-atkins-crypto-surges-bitcoin-2024-12",
+        "urlToImage": "https://i.insider.com/6751928a8fb3f94e507377d7?width=1200&format=jpeg",
+        "publishedAt": "2024-12-05T12:11:47Z",
+        "content": "Joshua Roberts/Reuters; Chelsea Jia Feng/BI\r\n\u003Cul\u003E\u003Cli\u003EThis is an excerpt from the Insider Today newsletter.\u003C/li\u003E\u003Cli\u003EYou can sign up for Business Insider's daily newsletter here.\u003C/li\u003E\u003C/ul\u003EThe crypto co… [+2857 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Slashdot.org"
+        },
+        "author": "EditorDavid",
+        "title": "Bitcoin Miner Purchases 112-Megawatt Texas Wind Farm, Takes it Off the Grid",
+        "description": "This week a Florida-based Bitcoin-tech company named MARA Holdings announced it had bought a 114-megawatt Texas wind farm, reports Chron.com, \"and will subsequently take it off the power grid and use it to energize its mining operations.\" \n\nMARA's CEO tells t…",
+        "url": "https://news.slashdot.org/story/24/12/08/2345218/bitcoin-miner-purchases-112-megawatt-texas-wind-farm-takes-it-off-the-grid",
+        "urlToImage": "https://a.fsdn.com/sd/topics/usa_64.png",
+        "publishedAt": "2024-12-08T23:48:00Z",
+        "content": "This week a Florida-based Bitcoin-tech company named MARA Holdings announced it had bought a 114-megawatt Texas wind farm, reports Chron.com, \"and will subsequently take it off the power grid and use… [+2758 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Muslim Farooque",
+        "title": "Pantera's Morehead Sees Bitcoin Soaring to $740K Amid Policy Shifts and Skeptic Sentiment",
+        "description": "Dan Morehead predicts Bitcoin could hit $740,000, driven by policy shifts and Pantera's growing blockchain investments",
+        "url": "https://finance.yahoo.com/news/panteras-morehead-sees-bitcoin-soaring-150950431.html",
+        "urlToImage": "https://media.zenfs.com/en/us.finance.gurufocus/51250b22ee473ad261f1e16bd769d06b",
+        "publishedAt": "2024-11-26T15:09:50Z",
+        "content": "According to Dan Morehead, managing partner and founding member of Pantera Capital Management, Bitcoin's (BTC) explosive climb still has a lot of room to grow.\r\nMorehead dismissed worries of a Bitcoi… [+950 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Decentralized Dog",
+        "title": "Bitcoin Exchange Reserves Fall to 2.46 Million BTC, Lowest Level in Years, Signaling Long-Term Investment Trend",
+        "description": "Bitcoin exchange reserves have hit their lowest levels in years, with significant withdrawals from major cryptocurrency exchanges like Binance and Coinbase.",
+        "url": "https://finance.yahoo.com/news/bitcoin-exchange-reserves-fall-2-081403690.html",
+        "urlToImage": "https://media.zenfs.com/en/coinmarketcap_783/583e5b34f952ae2fffbc1379928f23ff",
+        "publishedAt": "2024-12-04T08:14:03Z",
+        "content": "Bitcoin Exchange Reserves Fall to 2.46 Million BTC, Lowest Level in Years, Signaling Long-Term Investment Trend\r\nBitcoin exchange reserves have hit their lowest levels in years, with significant with… [+2362 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Shaun Pruitt",
+        "title": "Buy the Dip in Coinbase (COIN) Stock as Bitcoin Slides Below $100K?",
+        "description": "Coinbase Global (COIN) appears to be taking advantage of the growing optimism and support for Bitcoin among other cryptocurrencies.",
+        "url": "https://finance.yahoo.com/news/buy-dip-coinbase-coin-stock-225800931.html",
+        "urlToImage": "https://media.zenfs.com/en/zacks.com/823f3ddeb39728c3ad89e88f6bd626fc",
+        "publishedAt": "2024-12-09T22:58:00Z",
+        "content": "Despite Bitcoin's recent dip below $100,000, Coinbase's stock has risen 80% year-to-date, driven by improved financial performance, including a 100% increase in quarterly sales and a 341.36% average … [+4648 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "U.S. Bitcoin ETFs Experience $438 Million Outflows as Bitcoin Drops Below $94,000, While Ethereum Funds See Modest Inflows",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a27b1443-952f-4625-b349-71d8165e3857",
+        "urlToImage": null,
+        "publishedAt": "2024-11-27T03:07:43Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Decentralized Dog",
+        "title": "Experts Predict Bitcoin Could Reach $150K by Year-End",
+        "description": "On Dec. 5, 2024, Bitcoin surpassed the $100,000 mark for the first time, reaching an all-time high of $103,800 and achieving a $2 trillion market...",
+        "url": "https://finance.yahoo.com/news/experts-predict-bitcoin-could-reach-081713448.html",
+        "urlToImage": "https://media.zenfs.com/en/coinmarketcap_783/94babde46f499c2bedb30474142aa634",
+        "publishedAt": "2024-12-06T08:17:13Z",
+        "content": "Experts Predict Bitcoin Could Reach $150K by Year-End\r\nOn Dec. 5, 2024, Bitcoin surpassed the $100,000 mark for the first time, reaching an all-time high of $103,800 and achieving a $2 trillion marke… [+2358 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tradingview.com"
+        },
+        "author": null,
+        "title": "Bitcoin is over $100k",
+        "description": "Watch live Bitcoin to Dollar chart, follow BTCUSD prices in real-time and get bitcoin price history. Check the Bitcoin technical analysis and forecasts.",
+        "url": "https://www.tradingview.com/symbols/BTCUSD/",
+        "urlToImage": "https://static.tradingview.com/static/images/logo-preview.png",
+        "publishedAt": "2024-12-05T02:41:54Z",
+        "content": "Traders and investors use our platform.\r\nTop website in the world when it comes to all things investing.\r\nMobile reviews with 4.9 average rating. No other fintech apps are more loved."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "PCMag.com"
+        },
+        "author": "PC Mag",
+        "title": "What Does Bitcoin's Price Explosion Mean for Crypto in 2025?",
+        "description": "Bitcoin hits $100,000, thanks in part to Donald Trump's re-election. But there are other contributing factors that have led the crypto resurgence, according ...",
+        "url": "https://www.pcmag.com/news/what-does-bitcoins-price-explosion-mean-for-crypto-in-2025",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zI5Z2kTiGZyZq_YNkbIVCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pc_mag_263/1502c28015b69d9ad67f0d9efe94c961",
+        "publishedAt": "2024-12-05T15:27:24Z",
+        "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nP… [+6654 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Shaurya Malwa",
+        "title": "XRP Tops $100B Market Cap, Reaches 2018 Levels, as Ripple’s RLUSD Close to Approval",
+        "description": "The surge brought 7-day gains to 30%, outperforming bitcoin (BTC) and other majors, while 30-day gains stand at nearly 300%, data from CoinGecko show.",
+        "url": "https://finance.yahoo.com/news/xrp-tops-100b-market-cap-112003284.html",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+        "publishedAt": "2024-12-01T11:20:03Z",
+        "content": "XRP flipped a $100 billion market capitalization late Saturday as a multiweek rally showed no signs of pausing amid multiple catalysts over the past weeks.\r\nXRP zoomed nearly 10% in a 24-period from … [+1538 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "CoinDesk",
+        "title": "Bullish Signals Point to Another Bitcoin Price Explosion",
+        "description": "CoinDesk's Christine Lee breaks down a few bullish signals for bitcoin as the cryptocurrency fights to sustain its milestone $2 trillion market cap and...",
+        "url": "https://finance.yahoo.com/video/bullish-signals-point-another-bitcoin-181126826.html",
+        "urlToImage": "https://media.zenfs.com/en/coindesk_75/8cc0f8410c8150974ab74a5eef820292",
+        "publishedAt": "2024-12-12T18:11:26Z",
+        "content": "CoinDesk's Christine Lee breaks down a few bullish signals for bitcoin as the cryptocurrency fights to sustain its milestone $2 trillion market cap and $100,000 price level. Watch the \"Chart of the D… [+3 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Why creating a bitcoin strategic reserve would be a 'challenge'",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8f999554-0d37-4b4a-9285-80336bed0a9a",
+        "urlToImage": null,
+        "publishedAt": "2024-12-16T20:35:56Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Why bitcoin could easily hit $225,000 by 2026: Analyst",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9ea19c3-df63-4e97-b6e4-d45b33093b0b",
+        "urlToImage": null,
+        "publishedAt": "2024-11-27T13:00:41Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "What Happened in Crypto Today: Guess Who Wants Bitcoin Now",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ebb5a50-1bf0-4d66-90a3-3cb5adbacea2",
+        "urlToImage": null,
+        "publishedAt": "2024-12-13T09:28:45Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "Johnny Depp Impersonators Are Swindling Elderly People Online",
+        "description": "Gizmodo obtained complaints about Johnny Depp impersonation scams through a FOIA request to the FTC.",
+        "url": "https://gizmodo.com/johnny-depp-impersonators-are-swindling-elderly-people-online-2000533177",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/johnny-depp-spain-2024.jpg",
+        "publishedAt": "2024-12-04T13:00:37Z",
+        "content": "Have you or a loved one received a message on Facebook from someone claiming to be Johnny Depp? It’s a scam targeting elderly people that’s become common in recent years. These victims are often hand… [+28126 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Max Zahn",
+        "title": "Bitcoin races past $100,000, fueled by post-election rally",
+        "description": "The price of bitcoin has surged more than 40% since Election Day.",
+        "url": "https://abcnews.go.com/Business/bitcoin-races-past-100000-dollars-fueled-post-election-rally/story?id=116127616",
+        "urlToImage": "https://i.abcnewsfe.com/a/ccb95de6-b6ce-4880-b03c-6bcaf7a53cfd/bitcoin-1-rt-bb-241122_1732299902854_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-12-05T03:15:38Z",
+        "content": "The price of bitcoin surpassed $100,000 for the first time on Wednesday, soaring to a fresh high as the worlds largest cryptocurrency extended a rally set off by the election of former President Dona… [+3395 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Max Zahn",
+        "title": "Trump takes credit for bitcoin surpassing $100,000. Is it too late to buy?",
+        "description": "The price of bitcoin has soared nearly 50% since Election Day.",
+        "url": "https://abcnews.go.com/Business/late-buy-bitcoin-after-hit-100000-experts-weigh/story?id=116479991",
+        "urlToImage": "https://i.abcnewsfe.com/a/c4d1beab-bc04-49ee-8e21-0b399124f166/bitcoin-rf-gty-ml-241205_1733416428454_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-12-05T16:56:22Z",
+        "content": "The price of bitcoin topped $100,000 for the first time ever late Wednesday, and soared to a fresh high in early trading on Thursday.\r\nThe new gains extended a rally set off by the election of former… [+3958 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Enrique Pérez",
+        "title": "El Bitcoin ya sabe cuánto tiempo necesitará para protegerse de la amenaza de los ordenadores cuánticos: 10 meses",
+        "description": "La llegada de Willow ha generado cierto nerviosismo. El ordenador cuántico de Google promete resolver en 5 minutos tarea para las que un superordenador hubiera necesitado más que la edad del universo. Un hito que ha llevado a replantearse seriamente si nuestr…",
+        "url": "https://www.xataka.com/criptomonedas/bitcoin-sabe-cuanto-tiempo-necesitara-para-protegerse-amenaza-ordenadores-cuanticos-10-meses",
+        "urlToImage": "https://i.blogs.es/15ab12/bitcoin-ordenadores-cuanticos/840_560.jpeg",
+        "publishedAt": "2024-12-18T19:31:30Z",
+        "content": "La llegada de Willow ha generado cierto nerviosismo. El ordenador cuántico de Google promete resolver en 5 minutos tarea para las que un superordenador hubiera necesitado más que la edad del universo… [+3171 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Javier Pastor",
+        "title": "Hay una empresa que está comprando más Bitcoins que nadie en el planeta. Es una apuesta loca y tiene bastante sentido",
+        "description": "Entre 2011 y la mayor parte de 2020, la capitalización de mercado de MicroStrategy osciló entre los 1.000 y los 2.000 millones de dólares. Hoy su capitalización es de 85.000 millones de dólares, y la culpa la tiene una criptomoneda: bitcoin. ¿Qué ha pasado? V…",
+        "url": "https://www.xataka.com/criptomonedas/loca-apuesta-empresa-que-esta-comprando-bitcoins-que-nadie-mundo",
+        "urlToImage": "https://i.blogs.es/d4b8fd/bitcoin/840_560.jpeg",
+        "publishedAt": "2024-12-14T11:30:39Z",
+        "content": "Entre 2011 y la mayor parte de 2020, la capitalización de mercado de MicroStrategy osciló entre los 1.000 y los 2.000 millones de dólares. Hoy su capitalización es de 85.000 millones de dólares, y la… [+4209 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Javier Lacort",
+        "title": "Bitcoin supera los 100.000 dólares con el mundo crypto inusualmente tranquilo. Es una buena señal",
+        "description": "Bitcoin acaba de rebasar por primera vez en su historia la barrera psicológica de los 100.000 dólares. Ha duplicado su valor en menos de dos meses y ya tiene una capitalización de mercado que roza los 2 billones de dólares.\n\u003C!-- BREAK 1 --\u003E\nPor qué es importa…",
+        "url": "https://www.xataka.com/criptomonedas/bitcoin-supera-100-000-dolares-mundo-crypto-inusualmente-tranquilo-buena-senal",
+        "urlToImage": "https://i.blogs.es/2844d8/bitcoin-image-from-unsplash/840_560.jpeg",
+        "publishedAt": "2024-12-05T07:21:58Z",
+        "content": "Bitcoin acaba de rebasar por primera vez en su historia la barrera psicológica de los 100.000 dólares. Ha duplicado su valor en menos de dos meses y ya tiene una capitalización de mercado que roza lo… [+2415 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Decentralized Dog",
+        "title": "Bitcoin Drops to $96,256 After Failing To Break $100K, Triggering $500M in Liquidations",
+        "description": "Bitcoin’s price has fallen to $96,256, retreating from its recent high of $99,645 achieved on Nov. 22.",
+        "url": "https://finance.yahoo.com/news/bitcoin-drops-96-256-failing-082109478.html",
+        "urlToImage": "https://media.zenfs.com/en/coinmarketcap_783/869ff1fd682923fcfc5a98633bc26dac",
+        "publishedAt": "2024-11-25T08:21:09Z",
+        "content": "Bitcoin Drops to $96,256 After Failing To Break $100K, Triggering $500M in Liquidations\r\nBitcoins price has fallen to $96,256, retreating from its recent high of $99,645 achieved on Nov. 22. The decl… [+2740 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ccaf.io"
+        },
+        "author": null,
+        "title": "Cambridge Bitcoin Electricity Consumption Index",
+        "description": "The Cambridge Blockchain Network Sustainability Index (CBNSI) is created and maintained by the Cambridge Digital Assets Programme (CDAP) Team at the Cambridge Centre for Alternative Finance, an independent research institute based at Cambridge Judge Business …",
+        "url": "https://ccaf.io/cbnsi/cbeci/mining_map",
+        "urlToImage": "https://ccaf.io/cbnsi/og-image.png",
+        "publishedAt": "2024-12-12T16:19:55Z",
+        "content": "Note: \r\naverage monthly hashrate share by country and region for the selected period, based on geolocational mining pool data. Updates are scheduled on a monthly basis subject to data availability (g… [+1862 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "BlackRock Bitcoin ETF Put Options at $30, $35 Price Levels See Volume Spike",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_333da494-93f4-4b55-9510-20a62fc78df0",
+        "urlToImage": null,
+        "publishedAt": "2024-12-16T09:31:12Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Bitcoin surges past $100k for first time",
+        "description": "Its record price is making headlines - but that's just one part of the cryptocurrency's tumultuous story.",
+        "url": "https://www.bbc.co.uk/news/articles/cqj0wkwv1x2o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e73d/live/9bb4c2c0-ab21-11ef-8487-d5a0de19ffaf.jpg",
+        "publishedAt": "2024-12-05T08:54:47Z",
+        "content": "2. Making history with pizza\r\nBitcoin now underpins a two trillion-dollar cryptocurrency industry - but the first recorded transaction using it was the purchase of pizza.\r\nOn 22 May 2010, Lazlo Hanye… [+1248 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "What Happened in Crypto Today: Why Are the Bitcoin Whales Dumping?",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_afb0ce88-ea02-4478-868c-50a445f282a3",
+        "urlToImage": null,
+        "publishedAt": "2024-12-16T08:56:05Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Trump's $1 billion promise, RFK Jr. on Ozempic, and Microsoft rejects Bitcoin: Business news roundup",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e5a4d03d-bea0-4bc8-892f-021b652e89cc",
+        "urlToImage": null,
+        "publishedAt": "2024-12-14T14:00:00Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Powell Triggers Market Carnage: VIX Spikes 58%, Stocks Plummet, Dollar Hits 2-Year Highs, Bitcoin Nosedives",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f3b46bdd-21a7-4125-ac5c-b692e892a089",
+        "urlToImage": null,
+        "publishedAt": "2024-12-18T21:38:27Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "fdemott@insider.com (Filip De Mott)",
+        "title": "Stock market today: Indexes slip after hitting records as investors await fresh economic data",
+        "description": "Investors are waiting for new economic data this week, with October's JOLTS report scheduled for Tuesday and the November payroll report due on Friday.",
+        "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-sp500-record-high-holts-labor-fed-cuts-2024-12",
+        "urlToImage": "https://i.insider.com/674f15a37929f317fb4fb0c5?width=1200&format=jpeg",
+        "publishedAt": "2024-12-03T14:54:50Z",
+        "content": "US indexes were lower Tuesday as momentum waned on the back of a new closing high for the S&amp;P 500 and the Nasdaq. \r\nInvestors are now bracing for several economic updates scheduled for this week.… [+1210 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Nils Jacobsen",
+        "title": "Knackt der Bitcoin die 100.000-Marke?",
+        "description": "Die Euphorie um Bitcoin reißt nicht ab. Die wertvollste Kryptowährung klettert bis kurz vor die magische Marke von 100.000 Dollar. Die Gründe für den Hype.",
+        "url": "https://www.heise.de/news/Knackt-der-Bitcoin-die-100-000-Marke-10102002.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/3/4/6/4/9/shutterstock_1968404476-21e25c3afbb03770.jpg",
+        "publishedAt": "2024-11-22T11:20:00Z",
+        "content": "Inhaltsverzeichnis\r\nDie große Frage steht im Raum: Wo warst du, als der Bitcoin die 100.000-Dollar knackte? Bitcoin-Besitzer können sich noch etwas Kreatives überlegen, denn die symbolträchtige Marke… [+6348 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Themarginalian.org"
+        },
+        "author": "Maria Popova",
+        "title": "Favorite Books of the Year: Art, Science, Poetry, Psychology, Children’s, and More",
+        "description": "Because I read for the same reason I write — to fathom my life and deepen my living — looking back on a year of life has always been looking back on a year of reading. This year was different — a time of such profound pain and profound transformation that it …",
+        "url": "https://www.themarginalian.org/2024/12/17/best-books-2024/",
+        "urlToImage": "https://www.themarginalian.org/wp-content/uploads/2012/01/books1.jpg?fit=600%2C315&ssl=1",
+        "publishedAt": "2024-12-17T14:50:59Z",
+        "content": "Every month, I spend hundreds of hours and thousands of dollars keeping The Marginalian going. For nearly two decades, it has remained free and ad-free and alive thanks to patronage from readers. I h… [+644 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "dpa",
+        "title": "Bitcoin überwindet die Schwelle von 100.000 US-Dollar",
+        "description": "Wer 2009 nur einen Dollar in Bitcoin gesteckt hätte, würde inzwischen auf einem Schatz von 130 Millionen sitzen. Die Rally scheint kein Ende zu nehmen.",
+        "url": "https://www.heise.de/news/Bitcoin-ueberwindet-die-Schwelle-von-100-000-US-Dollar-10188721.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/5/7/5/3/9/shutterstock_1937129161-91f75b37827ffe38.jpg",
+        "publishedAt": "2024-12-05T05:59:00Z",
+        "content": "Inhaltsverzeichnis\r\nGut 16 Jahre nach der Gründung des Bitcoin hat die Kryptowährung erstmals die Schwelle von 100.000 US-Dollar überwunden. Die älteste und bekannteste Digitalwährung kletterte in de… [+5679 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daytona Beach News-Journal"
+        },
+        "author": "Frank Fernandez, Daytona Beach News-Journal",
+        "title": "'King Bob' from Palm Coast facing additional federal charges in 'phishing scheme'",
+        "description": "Noah Michael Urban was already facing charges in federal court in Jacksonville. This week he was indicted by a federal grand jury in California.",
+        "url": "https://www.news-journalonline.com/story/news/crime/2024/11/22/king-bob-from-palm-coast-facing-more-federal-charges-in-crypto-heist/76493597007/",
+        "urlToImage": "https://media.zenfs.com/en/daytona-beach-news-journal/dbe047b94e73883d4667768cd123b38a",
+        "publishedAt": "2024-11-22T14:23:53Z",
+        "content": "A Palm Coast man who called himself \"King Bob\" and was arrested earlier this year as part of a cryptocurrency heist of at least $800,000 is now facing additional federal charges as part of  a phishin… [+3732 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Short-Term Bitcoin Holders Have Moved Nearly $8B Worth of BTC to Exchanges, Signaling Price Bottom: Van Straten",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cb5a4b9f-0457-440d-8348-8f31cbf0c9c5",
+        "urlToImage": null,
+        "publishedAt": "2024-11-27T12:01:56Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "BlackRock's Bitcoin ETF Options Soar to $1.9B on Debut, Fueling Bitcoin's Surge to New All-Time Highs",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d915337a-ff79-4897-bd9e-aacb9259f809",
+        "urlToImage": null,
+        "publishedAt": "2024-11-20T08:14:14Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Microsoft Just Made a Momentous Decision About Bitcoin That Could Dramatically Affect Your Ability to Become a Crypto Millionaire",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b06ab0b2-f30d-4c04-b139-2e935f6c67c7",
+        "urlToImage": null,
+        "publishedAt": "2024-12-15T10:00:00Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Here's Why This Bitcoin Rally Is Different",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ac04cad6-016a-42e2-8f57-b52c495af345",
+        "urlToImage": null,
+        "publishedAt": "2024-12-16T10:00:00Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "MicroStrategy purchases another $5.4 Billion in bitcoin",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_62988999-d932-43eb-8950-602ea2c1290a",
+        "urlToImage": null,
+        "publishedAt": "2024-11-25T13:11:55Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "When's the Best Time to Buy Bitcoin?",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_21d0234f-9cc8-488b-adb6-6b6931a206d9",
+        "urlToImage": null,
+        "publishedAt": "2024-11-27T18:31:03Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "hbullock@insider.com (Hallam Bullock)",
+        "title": "The Omnicom-IPG megamerger signals a new era for the ad industry",
+        "description": "Omnicom Group is merging with Interpublic Group, creating a bigger base to deploy data and technology.",
+        "url": "https://www.businessinsider.com/omnicom-acquires-interpublic-group-ad-sector-under-threat-2024-12",
+        "urlToImage": "https://i.insider.com/67582c2f52dd0818d1a627fb?width=1000&format=jpeg",
+        "publishedAt": "2024-12-10T16:37:38Z",
+        "content": "Hello. Luigi Mangione, a 26-year-old Ivy League graduate, has been charged with murder in the fatal shooting of UnitedHealthcare CEO Brian Thompson.\r\nMangione was arrested in Pennsylvania on Monday a… [+6590 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Daniel AJ Sokolov",
+        "title": "Bitcoin-Wegschmeißer vor Gericht: Präzise Suche auf Müllhalde gefordert",
+        "description": "Eine Festplatte mit tausenden Bitcoins soll auf einer Müllhalde liegen. Der frühere Eigentümer möchte ganz präzise buddeln lassen, die Stadt ihre Ruhe.",
+        "url": "https://www.heise.de/news/Bitcoin-Wegschmeisser-vor-Gericht-Praezise-Suche-auf-Muellhalde-gefordert-10190205.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/5/8/3/1/9/shutterstock_709695901_1_-d476d9803e61ad6e.jpg",
+        "publishedAt": "2024-12-06T03:31:00Z",
+        "content": "Rund 734 Millionen Euro wären sie theoretisch wert, die 8.000 Bitcoins, die der Waliser James Howells gerne wiedererlangen würde. Leider hat seine damalige Freundin den Sack mit der Festplatte, auf d… [+1836 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Frank Schräer",
+        "title": "Freitag: Bitcoin-Müllsucher gibt nicht auf, Warnung vor Wahlkampf-Desinformation",
+        "description": "8000 Bitcoins im Müll + Fakenews und Cyberangriffe + ChatGPT mit teurem Abo + 3D-Welten per KI + Windkraft-Ausschreibung ohne Bieter + Verbraucherschutz-Podcast",
+        "url": "https://www.heise.de/news/Freitag-Bitcoin-Muellsucher-gibt-nicht-auf-Warnung-vor-Wahlkampf-Desinformation-10190225.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/5/8/3/2/9/friday-eeaa15b439506e37.webp",
+        "publishedAt": "2024-12-06T05:15:00Z",
+        "content": "Eine Festplatte mit tausenden Bitcoins soll auf einer walisischen Müllhalde liegen. Der frühere Eigentümer möchte ganz präzise buddeln lassen, um die Stadt als Betreiberin der Müllkippe doch noch ums… [+8439 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Genbeta.com"
+        },
+        "author": "José Alberto Lizana",
+        "title": "Compró dos pizzas por 10.000 Bitcoin en 2010. 14 años después se lamenta de haber gastado casi 1.000 millones de dólares",
+        "description": "Las criptomonedas no paran de ganar importancia en nuestra sociedad. Con la victoria de Donald Trump en Estados Unidos y el importante papel que tendrá Musk en el Gobierno Federal el Bitcoin no ha parado de aumentar, marcando auténticos hitos en su capitaliza…",
+        "url": "https://www.genbeta.com/actualidad/compro-dos-pizzas-10-000-bitcoin-2010-14-anos-despues-se-lamenta-haber-gastado-casi-1-000-millones-dolares",
+        "urlToImage": "https://i.blogs.es/2c16e4/ivan-torres-mquqbmszggm-unsplash/840_560.jpeg",
+        "publishedAt": "2024-12-17T10:48:43Z",
+        "content": "Las criptomonedas no paran de ganar importancia en nuestra sociedad. Con la victoria de Donald Trump en Estados Unidos y el importante papel que tendrá Musk en el Gobierno Federal el Bitcoin no ha pa… [+2001 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Genbeta.com"
+        },
+        "author": "José Alberto Lizana",
+        "title": "Bitcoin ha superado por primera vez los 100.000 dólares sin causar sorpresa. Indica que va por el buen camino",
+        "description": "Por primera vez en su historia, el Bitcoin ha pasado una barrera psicológica importante para cualquier inversor: la de los 100.000 dólares. Un crecimiento espectacular si echamos la vista atrás, ya que prácticamente ha duplicado el valor que tenía solo hace d…",
+        "url": "https://www.genbeta.com/actualidad/bitcoin-ha-superado-primera-vez-100-000-dolares-causar-sorpresa-indica-que-va-buen-camino",
+        "urlToImage": "https://i.blogs.es/6c81f4/kanchanara-qsp3knk23fw-unsplash/840_560.jpeg",
+        "publishedAt": "2024-12-05T08:24:24Z",
+        "content": "Por primera vez en su historia, el Bitcoin ha pasado una barrera psicológica importante para cualquier inversor: la de los 100.000 dólares. Un crecimiento espectacular si echamos la vista atrás, ya q… [+2596 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Golem.de"
+        },
+        "author": "Tobias Költzsch",
+        "title": "Kryptowährung: Bitcoin überschreitet erstmals 100.000 US-Dollar",
+        "description": "Erstmals ist ein Bitcoin mehr wert als 100.000 US-Dollar. Auslöser für den Hype dürften neue Nominierungen Donald Trumps sein. (Bitcoin, Politik)",
+        "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fkryptowaehrung-bitcoin-ueberschreitet-erstmals-100-000-us-dollar-2412-191438.html&referer=https%3A%2F%2Ft.co%2Fdf5687cbe5",
+        "urlToImage": null,
+        "publishedAt": "2024-12-05T08:29:02Z",
+        "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Madison Mills",
+        "title": "Core Scientific finds a balance in bitcoin mining and AI: CEO",
+        "description": "Some bitcoin (BTC-USD) miners are shifting into artificial intelligence (AI) and selling their existing power to AI data centers as Big Tech companies look...",
+        "url": "https://finance.yahoo.com/video/core-scientific-finds-balance-bitcoin-173651153.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/fQo2ZbFpg7yJYpz5O4geHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/2f73f5d0-bd65-11ef-9caf-83610426a3a9",
+        "publishedAt": "2024-12-18T17:36:51Z",
+        "content": "Some bitcoin (BTC-USD) miners are shifting into artificial intelligence (AI)and selling their existing power to AI data centers as Big Tech companies look for power sources capable of meeting the ene… [+1532 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "fdemott@insider.com (Filip De Mott)",
+        "title": "Stock market today: S&P 500, Dow end at record as investors shake off tariff fears, digest Fed minutes",
+        "description": "Stock markets recovered on Tuesday after Trump's latest tariff plans briefly derailed equities.",
+        "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-trade-tariffs-trump-fed-minutes-rate-cuts-2024-11",
+        "urlToImage": "https://i.insider.com/674637c69f2901eb60371dd1?width=1200&format=jpeg",
+        "publishedAt": "2024-11-26T21:21:11Z",
+        "content": "US stocks rose to records on Tuesday, as indexes recovered from Donald Trump's market-moving tariff plans announced Monday evening and as traders digested the minutes of the Federal Reserve's last me… [+2293 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Enrique Pérez",
+        "title": "XRP estuvo cerca de ser ilegal. Con la victoria de Trump ya es la tercera criptomoneda más importante del mundo",
+        "description": "Hubo un momento en que la industria cripto miró hacia otro lado con XRP. Fueron las horas más bajas de una criptomoneda creada para las transferencias de dinero. A finales de 2020, la Comisión de Bolsa y Valores de Estados Unidos (SEC) demandó a Ripple, ponie…",
+        "url": "https://www.xataka.com/criptomonedas/xrp-estuvo-cerca-ser-ilegal-victoria-trump-tercera-criptomoneda-importante-mundo",
+        "urlToImage": "https://i.blogs.es/48f39a/xrp/840_560.jpeg",
+        "publishedAt": "2024-12-02T18:30:26Z",
+        "content": "Hubo un momento en que la industria cripto miró hacia otro lado con XRP. Fueron las horas más bajas de una criptomoneda creada para las transferencias de dinero. A finales de 2020, la Comisión de Bol… [+2791 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The New Yorker"
+        },
+        "author": "John Cassidy",
+        "title": "How Long Will the Trump Crypto Boom Last?",
+        "description": "John Cassidy writes that, as Donald Trump’s pro-crypto Administration prepares to take power, there are some parallels with the dot-com boom of the nineties.",
+        "url": "https://www.newyorker.com/news/the-financial-page/how-long-will-the-trump-crypto-boom-last",
+        "urlToImage": "https://media.newyorker.com/photos/675368432b99c66b637e8b4e/16:9/w_1280,c_limit/Chotiner-TrumpCrypto-Siu.jpg",
+        "publishedAt": "2024-12-09T11:00:00Z",
+        "content": "Last week, after Donald Trump announced that he would nominate Paul Atkins, a cryptocurrency advocate, to head the Securities and Exchange Commission (S.E.C.), the price of a Bitcoin topped a hundred… [+8126 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Ryan Christoffel",
+        "title": "You can buy Bitcoin with Apple Pay via new Coinbase rollout",
+        "description": "Bitcoin and other cryptocurrencies are getting easier to buy into, as Coinbase is rolling out a new integration today for purchasing crypto via Apple Pay across third-party apps. Here are the details.\n\n\n\n more…",
+        "url": "https://9to5mac.com/2024/12/02/you-can-buy-bitcoin-with-apple-pay-via-new-coinbase-rollout/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/02/Apple-Bitcoin.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-12-02T20:10:06Z",
+        "content": "Bitcoin and other cryptocurrencies are getting easier to buy into, as Coinbase is rolling out a new integration today for purchasing crypto via Apple Pay across third-party apps. Here are the details… [+868 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Tobi Opeyemi Amure",
+        "title": "4 Reasons To Invest In Crypto Before Trump’s Inauguration and 3 Reasons Not To",
+        "description": "Next year could be a big one for cryptocurrency, especially as President-elect Donald Trump returns to the White House. During his campaign, Trump promoted...",
+        "url": "https://finance.yahoo.com/news/4-reasons-invest-crypto-trump-110232073.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/unBfNRD8FuxYwwa3fGFidQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/8525268b0447d6ad47e9b95cb57df74a",
+        "publishedAt": "2024-12-12T11:02:32Z",
+        "content": "©PABLO GIANINAZZI/EPA-EFE / Shutterstock\r\nNext year could be a big one for cryptocurrency, especially as President-elect Donald Trump returns to the White House. During his campaign, Trump promoted h… [+5259 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Presse-citron"
+        },
+        "author": "Robin Sabbadini",
+        "title": "En 2010 il fallait payer 10 000 Bitcoins pour une pizza, il vient maintenant de dépasser les 100 000 dollars",
+        "description": "Le Bitcoin vient de franchir un cap historique en dépassant les 100 000 dollars. Un moment symbolique qui nous rappelle le chemin parcouru depuis la première transaction « réelle » en Bitcoin : l’achat de deux pizzas pour 10 000 BTC en 2010.",
+        "url": "https://www.presse-citron.net/en-2010-il-fallait-payer-10-000-bitcoins-pour-une-pizza-il-vient-maintenant-de-depasser-les-100-000-dollars/",
+        "urlToImage": "https://www.presse-citron.net/app/uploads/2018/10/Presse-Citron-2019-1.jpg",
+        "publishedAt": "2024-12-05T06:02:07Z",
+        "content": "Le 22 mai 2010, Laszlo Hanyecz ne se doutait pas quil allait entrer dans lhistoire. Ce développeur américain, féru de crypto-monnaies, publiait une simple annonce sur un forum Bitcoin : il proposait … [+3130 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Mike Taylor",
+        "title": "Scientists warn of 'urgent need for action' against bitcoin surge — here's what's happening",
+        "description": "Last week, the value of the cryptocurrency topped $100,000 for the first time.",
+        "url": "https://www.yahoo.com/news/scientists-warn-urgent-action-against-104546967.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Zt97lww9fQkUyXMSM5j3wg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/the_cool_down_737/b7d51b01007819bc3ef2678a0d730515",
+        "publishedAt": "2024-12-14T10:45:46Z",
+        "content": "Yahoo is using AI to generate takeaways from this article. This means the info may not always match what's in the article. Reporting mistakes helps us improve the experience.Generate Key Takeaways\r\nA… [+6370 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Microsiervos.com"
+        },
+        "author": "alvy@microsiervos.com (Alvy)",
+        "title": "Bitcoin alcanza los 100.000 dólares y bate máximos de todos los tiempos, adentrándose en territorio inexplorado",
+        "description": "Hoy bitcoin ha batido sus máximos de todos los tiempos, después de que el 6 de noviembre superara la marca anterior que era de unos 73.738 dólares por bitcoin, allá por marzo de 2024. Esto significa que todo el que haya comprado bitcoins –a cualquier precio, …",
+        "url": "https://www.microsiervos.com/archivo/economia/bitcoin-alcanza-100000-dolares-bate-maximos.html",
+        "urlToImage": "https://img.microsiervos.com/images2024/Bitcoin-ISO-lego.jpg",
+        "publishedAt": "2024-11-23T13:06:44Z",
+        "content": "Por @Alvy 23 de Noviembre de 2024\r\nHoy bitcoin ha batido sus máximos de todos los tiempos, después de que el 6 de noviembre superara la marca anterior que era de unos 73.738 dólares por bitcoin, allá… [+7616 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Presse-citron"
+        },
+        "author": "Robin Sabbadini",
+        "title": "En 2010 il fallait payer 10 000 BTC pour une pizza, le Bitcoin vient maintenant de dépasser les 100 000 dollars",
+        "description": "Le Bitcoin vient de franchir un cap historique en dépassant les 100 000 dollars. Un moment symbolique qui nous rappelle le chemin parcouru depuis la première transaction « réelle » en Bitcoin : l’achat de deux pizzas pour 10 000 BTC en 2010.",
+        "url": "https://www.presse-citron.net/en-2010-il-fallait-payer-10-000-btc-pour-une-pizza-le-bitcoin-vient-maintenant-de-depasser-les-100-000-dollars/",
+        "urlToImage": "https://www.presse-citron.net/app/uploads/2024/11/pexels-karolina-grabowska-5980738.jpg",
+        "publishedAt": "2024-12-05T06:02:07Z",
+        "content": "Le 22 mai 2010, Laszlo Hanyecz ne se doutait pas quil allait entrer dans lhistoire. Ce développeur américain, féru de crypto-monnaies, publiait une simple annonce sur un forum Bitcoin : il proposait … [+3130 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Presse-citron"
+        },
+        "author": "Camille Coirault",
+        "title": "Bitcoin : après son explosion historique, une chute inévitable avant 2025 ?",
+        "description": "Tendance baissière ou simple pause ? Le Bitcoin joue avec les nerfs des investisseurs.",
+        "url": "https://www.presse-citron.net/bitcoin-apres-son-explosion-historique-une-chute-inevitable-avant-2025/",
+        "urlToImage": "https://www.presse-citron.net/app/uploads/2024/12/traxer-nw_Fsd0K7s0-unsplash-1.jpg",
+        "publishedAt": "2024-12-13T08:01:00Z",
+        "content": "Le marché du Bitcoin est agité de mouvements contradictoires. La reine des cryptomonnaies, après avoir littéralement explosé et franchit la barre symbolique des 100 000 dollars début décembre, cette … [+4239 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Lucas Ropek",
+        "title": "Why Crypto Bros Are So Obsessed with ‘Debanking’",
+        "description": "Crypto zealots claim there's a vast leftwing conspiracy to kill their joy.",
+        "url": "https://gizmodo.com/why-crypto-bros-are-so-obsessed-with-debanking-2000536748",
+        "urlToImage": "https://gizmodo.com/app/uploads/2024/12/Marc-Andreessen-at-the-Milken-Institute-Global-Conference.jpg",
+        "publishedAt": "2024-12-11T15:35:26Z",
+        "content": "Marc Andreessen made headlines recently when he brought up the issue of “debanking” on the Joe Rogan podcast, claiming that the U.S. government was “terrorizing” crypto companies with it. Long a buzz… [+6489 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Applesfera.com"
+        },
+        "author": "Guille Lomener",
+        "title": "Bitcoin ha superado por primera vez los 100.00 dólares y Apple te lo pone bien fácil para invertir desde tu iPhone",
+        "description": "El Bitcoin nos ha sorprendido a todos esta mañana, alcanzando los 100.000 dólares por primera vez en su historia. Un momento histórico que coincide con el nombramiento de Paul Atkins como nuevo jefe de la SEC por parte de Donald Trump, un férreo defensor de l…",
+        "url": "https://www.applesfera.com/aplicaciones-ios-1/bitcoin-ha-superado-primera-vez-100-00-dolares-apple-te-pone-bien-facil-para-invertir-tu-iphone",
+        "urlToImage": "https://i.blogs.es/d7640d/apple-pay-bitcoin/840_560.jpeg",
+        "publishedAt": "2024-12-05T12:00:22Z",
+        "content": "El Bitcoin nos ha sorprendido a todos esta mañana, alcanzando los 100.000 dólares por primera vez en su historia. Un momento histórico que coincide con el nombramiento de Paul Atkins como nuevo jefe … [+3894 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Microsiervos.com"
+        },
+        "author": "alvy@microsiervos.com (Alvy)",
+        "title": "Bitcoin supera los 100.000 dólares y bate su máximo de todos los tiempos, adentrándose en territorio inexplorado",
+        "description": "Hoy bitcoin ha batido sus máximos de todos los tiempos, después de que el 6 de noviembre superara la marca anterior que era de unos 73.738 dólares por bitcoin, de marzo de 2024. Esto del máximo significa que todo el que haya comprado bitcoins –a cualquier pre…",
+        "url": "https://www.microsiervos.com/archivo/economia/bitcoin-supera-100000-dolares-bate-maximo.html",
+        "urlToImage": "https://img.microsiervos.com/images2024/bitcoin-100k-5-dic-2024.jpg",
+        "publishedAt": "2024-12-05T07:00:00Z",
+        "content": "Por @Alvy 5 de Diciembre de 2024\r\nHoy bitcoin ha batido sus máximos de todos los tiempos, después de que el 6 de noviembre superara la marca anterior que era de unos 73.738 dólares por bitcoin, de ma… [+8056 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Dan DeFrancesco",
+        "title": "Is it a bird, a plane, or something more mysterious? Sightings in New Jersey's skies have raised questions and intrigue.",
+        "description": "A mysterious aircraft appeared in the night sky. Officials say they're not a foreign threat, but Trump criticizes delays in revealing more info.",
+        "url": "https://www.businessinsider.com/mystery-drone-officials-not-worried-lack-of-information-public-investigation-2024-12",
+        "urlToImage": "https://i.insider.com/676185ab4ea3c98ea3e4e20f?width=1200&format=jpeg",
+        "publishedAt": "2024-12-17T14:39:42Z",
+        "content": "US Army drones at a military base in Poland.MikeMareen via Getty Images\r\n\u003Cul\u003E\u003Cli\u003EThis post originally appeared in the Insider Today newsletter.\u003C/li\u003E\u003Cli\u003EYou can sign up for Business Insider's daily ne… [+7859 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Journal du geek"
+        },
+        "author": "Tristan Carballeda",
+        "title": "le bitcoin dépasse les 100 000 dollars, record absolu",
+        "description": "Le Bitcoin vient d'atteindre un nouveau record de popularité et de valeur. Mais jusqu'où la plus célèbre des cryptomonnaies peut-elle aller ?",
+        "url": "https://www.journaldugeek.com/2024/12/05/le-bitcoin-depasse-les-100-000-dollars-record-absolu/",
+        "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/01/bitcoin.jpg",
+        "publishedAt": "2024-12-05T07:51:07Z",
+        "content": "Les propriétaires de Bitcoin vivent un rêve éveillé. La plus célèbre des devises numériques vient de franchir la barre hautement symbolique des 100000 dollars. Un palier que beaucoup jugeait inatteig… [+2726 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "ddefrancesco@businessinsider.com (Dan DeFrancesco)",
+        "title": "Trump's trade plan could mean higher prices, and avoiding the impact won't be simple",
+        "description": "Trump's tariffs, ranging from 20% to 60%, will drive up prices and inflation, leaving consumers with only a few options to prepare.",
+        "url": "https://www.businessinsider.com/trump-tarrifs-increased-prices-consumers-prepare-inflation-risk-boosted-profits-2024-11",
+        "urlToImage": "https://i.insider.com/67446930fa0140cdd56527fc?width=1156&format=jpeg",
+        "publishedAt": "2024-11-25T12:38:24Z",
+        "content": "Welcome back! As Black Friday deals start rolling in, you might be looking to update your wardrobe. Before you buy any shoes, check out what trends stylists say are in (and out) this season\r\n.\r\nIn to… [+6368 chars]"
+      },
+      {
+        "source": {
+          "id": "le-monde",
+          "name": "Le Monde"
+        },
+        "author": "Le Monde avec AFP",
+        "title": "Le bitcoin s’envole après la nomination par Donald Trump d’un avocat favorable aux cryptomonnaies pour diriger la SEC, gendarme des marchés financiers",
+        "description": "Ancien commissaire de cette même autorité, Paul Atkins avait critiqué publiquement en 2023 les responsables de la SEC, estimant qu’ils auraient dû se montrer « plus accommodants » avec les entreprises du secteur des cryptomonnaies.",
+        "url": "https://www.lemonde.fr/international/article/2024/12/05/le-bitcoin-s-envole-apres-la-nomination-d-un-avocat-favorable-aux-cryptomonnaies-paul-atkins-pour-diriger-la-sec-gendarme-des-marches-financiers_6430637_3211.html",
+        "urlToImage": "https://img.lemde.fr/2024/12/04/0/0/3000/2000/1440/960/60/0/356523e_5427482-01-06.jpg",
+        "publishedAt": "2024-12-05T04:22:46Z",
+        "content": "Paul Atkins, ancien commissaire de lAutorité américaine de régulation des marchés financiers, lors dune audience au Capitole, à Washington, le 15 septembre 2011. BRENDAN HOFFMAN / AFP\r\nAux Etats-Unis… [+3951 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Golem.de"
+        },
+        "author": "Werner Pluta",
+        "title": "Bitcoin: US-Kryptomining-Unternehmen kauft Windpark",
+        "description": "Der Windpark wird vom Netz genommen und soll künftig exklusiv Strom für das Mining von Bitcoins liefern. (Kryptomining, Telekom)",
+        "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbitcoin-us-kryptomining-unternehmen-kauft-windpark-2412-191536.html&referer=https%3A%2F%2Ft.co%2F1d33f90804",
+        "urlToImage": null,
+        "publishedAt": "2024-12-09T10:30:01Z",
+        "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Vox"
+        },
+        "author": "Ellen Ioanes, Nicole Narea",
+        "title": "Why bitcoin is booming",
+        "description": "The price of bitcoin surged past $100,000 for the first time on Thursday, continuing a post-election run buoyed by the pro-crypto promise of the incoming Trump administration.  On Election Day, bitcoin — one of the most popular decentralized digital assets av…",
+        "url": "https://www.vox.com/bitcoin/390096/bitcoin-crypto-etf-trump-ethereum-sec-ctf-david-sacks",
+        "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/12/gettyimages-2187851174.jpg?quality=90&strip=all&crop=0%2C10.6649069428%2C100%2C78.670186114399&w=1200",
+        "publishedAt": "2024-12-06T21:56:31Z",
+        "content": "The price of bitcoin surged past $100,000 for the first time on Thursday, continuing a post-election run buoyed by the pro-crypto promise of the incoming Trump administration. \r\nOn Election Day, bitc… [+8702 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Microsiervos.com"
+        },
+        "author": "alvy@microsiervos.com (Alvy)",
+        "title": "Sobre el consumo de energía eléctrica global de TikTok: más que algunos países pequeños como Grecia",
+        "description": "La huella de carbono anual de TikTok es más grande que la de toda Grecia. O al menos, «probablemente», según estudio de expertos que han analizado el uso de las plataformas sociales, especialmente el tiempo que pasa la gente en ellas. Según dicen ese consumo …",
+        "url": "https://www.microsiervos.com/archivo/curiosidades/consumo-energia-electrica-global-tiktok-mas-que-grecia.html",
+        "urlToImage": "https://img.microsiervos.com/images2024/tiktok_roro.jpg",
+        "publishedAt": "2024-12-16T10:24:58Z",
+        "content": "Por @Alvy 16 de diciembre de 2024\r\nLa huella de carbono anual de TikTok es más grande que la de toda Grecia. O al menos, «probablemente», según estudio de expertos que han analizado el uso de las pla… [+1754 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Faz.net"
+        },
+        "author": "ham. dpa-AFX Bloomberg",
+        "title": "Bitcoin nähert sich 100.000 Dollar",
+        "description": "Fast 98.000 Dollar kostet Bitcoin inzwischen. Sein Aufstieg ist eng mit der Wahl Trumps verknüpft.",
+        "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/bitcoin-naehert-sich-marke-von-100-000-dollar-rekord-bei-knapp-98-000-dollar-110124677.html",
+        "urlToImage": "https://media0.faz.net/ppmedia/aktuell/finanzen/597660921/1.10076418/facebook_teaser/der-neue-bitcoin-guru-donald.jpg",
+        "publishedAt": "2024-11-21T07:36:09Z",
+        "content": "Der Sprung über 100.000 Dollar kann am Kryptomarkt schnell geschehen. So verteuerte sich der Bitcoin alleine seit Sonntag um circa acht Prozent. Seit der Wahl von Donald Trump zum US-Präsidenten Anfa… [+1026 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "'I was scammed out of £75k by Martin Lewis deepfake advert'",
+        "description": "Des Healey lost £76,000 in a scam using a deepfake of Martin Lewis and Elon Musk.",
+        "url": "https://www.bbc.com/news/articles/clyvj754d9lo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3a9e/live/68bb1710-a8c5-11ef-bdf5-b7cb2fa86e10.jpg",
+        "publishedAt": "2024-11-24T00:59:04Z",
+        "content": "Des lost £76,000 after falling victim to a scam advert on Facebook\r\n\"It's quite difficult for me to have to sit in the same room as you\", money saving expert Martin Lewis says as Des Healey, a kitche… [+5767 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Xataka.com"
+        },
+        "author": "Yúbal Fernández",
+        "title": "Stablecoins: qué son, cómo funcionan, ventajas y usos de estas criptomonedas estables",
+        "description": "Vamos a decirte qué son las stablecoins dentro del mundo de las criptomonedas. Se trata de una alternativa a monedas digitales como el Bitcoin o el Ethereum, pero diseñadas para ser un activo mucho más estable dentro de un sector muy volátil.\n\u003C!-- BREAK 1 --\u003E…",
+        "url": "https://www.xataka.com/basics/stablecoins-que-como-funcionan-ventajas-usos-estas-criptomonedas-estables",
+        "urlToImage": "https://i.blogs.es/1ca903/stablecoins/840_560.jpeg",
+        "publishedAt": "2024-12-19T09:52:39Z",
+        "content": "Vamos a decirte qué son las stablecoins dentro del mundo de las criptomonedas. Se trata de una alternativa a monedas digitales como el Bitcoin o el Ethereum, pero diseñadas para ser un activo mucho m… [+4418 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Bitcoin Retail Investor Selling Signals Coming Pullback, but There Might be a Catch",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6c84798b-184d-469b-a714-3076cd22c650",
+        "urlToImage": null,
+        "publishedAt": "2024-11-21T17:09:00Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": null,
+        "title": "Is Google’s (GOOG) New Quantum Chip A Bitcoin and NVDA Killer?",
+        "description": null,
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1d7dd6db-724e-4c14-bff1-baeef3a9cef2",
+        "urlToImage": null,
+        "publishedAt": "2024-12-11T15:47:51Z",
+        "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Yahoo Finance",
+        "title": "How blockchain technology sets crypto apart",
+        "description": "Listen and subscribe to Financial Freestyle on Apple Podcasts, Spotify, or wherever you find your favorite podcasts. On the latest episode of Financial...",
+        "url": "https://finance.yahoo.com/video/blockchain-technology-sets-crypto-apart-150025032.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IZ8Ecpc3n1G9Z3hpYsydDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzY-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/f07999a0-b0cd-11ef-afff-13863f7e8247",
+        "publishedAt": "2024-12-07T15:00:25Z",
+        "content": "Listen and subscribe to Financial Freestyle on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.\r\nOn the latest episode of Financial Freestyle with Ross Mac, Tall Guy Tycoon Arman… [+1137 chars]"
+      },
+      {
+        "source": {
+          "id": "die-zeit",
+          "name": "Die Zeit"
+        },
+        "author": "ZEIT ONLINE: News -",
+        "title": "Kryptowährungen: Bitcoin überwindet die Schwelle von 100.000 US-Dollar",
+        "description": "Hier finden Sie Informationen zu dem Thema „Kryptowährungen“. Lesen Sie jetzt „Bitcoin überwindet die Schwelle von 100.000 US-Dollar“.",
+        "url": "https://www.zeit.de/news/2024-12/05/bitcoin-ueberwindet-die-schwelle-von-100-000-us-dollar",
+        "urlToImage": "https://img.zeit.de/news/2024-12/05/bitcoin-ueberwindet-die-schwelle-von-100-000-us-dollar-image-group/wide__1300x731",
+        "publishedAt": "2024-12-05T03:26:42Z",
+        "content": "Gut 16 Jahre nach der Gründung des Bitcoin hat die Kryptowährung erstmals die Schwelle von 100.000 US-Dollar überwunden. Die älteste und bekannteste Digitalwährung kletterte in der Nacht zu Donnersta… [+5837 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Presse-citron"
+        },
+        "author": "Robin Sabbadini",
+        "title": "« Un mur infranchissable ? » : pourquoi le bitcoin ne passe toujours pas les 100 000 dollars",
+        "description": "La principale cryptomonnaie frôle régulièrement le seuil des 100 000 dollars sans parvenir à le franchir. Cette barrière psychologique s’impose comme le nouveau défi d’un marché dynamisé par l’élection de Donald Trump.",
+        "url": "https://www.presse-citron.net/un-mur-infranchissable-pourquoi-le-bitcoin-ne-passe-toujours-pas-les-100-000-dollars/",
+        "urlToImage": "https://www.presse-citron.net/app/uploads/2024/11/trump-crypto-bitcoin.jpg",
+        "publishedAt": "2024-12-02T08:31:11Z",
+        "content": "Le bitcoin, star incontestée du monde des cryptomonnaies, joue les montagnes russes depuis plusieurs mois. Son cours navigue autour des 97 000 dollars ce lundi, après avoir tutoyé son record historiq… [+3604 chars]"
+      },
+      {
+        "source": {
+          "id": "die-zeit",
+          "name": "Die Zeit"
+        },
+        "author": "ZEIT ONLINE: News -",
+        "title": "Kryptowährungen: Bitcoin steigt erstmals über 100.000 US-Dollar",
+        "description": "Hier finden Sie Informationen zu dem Thema „Kryptowährungen“. Lesen Sie jetzt „Bitcoin steigt erstmals über 100.000 US-Dollar“.",
+        "url": "https://www.zeit.de/news/2024-12/05/bitcoin-steigt-erstmals-ueber-100-000-us-dollar",
+        "urlToImage": "https://img.zeit.de/news/2024-12/05/bitcoin-steigt-erstmals-ueber-100-000-us-dollar-image-group/wide__1300x731",
+        "publishedAt": "2024-12-05T03:03:42Z",
+        "content": "Schließen\r\nHier können Sie interessante Artikel speichern, um sie später zu lesen und wiederzufinden.\r\nSie haben bereits ein Konto?\r\n Hier anmelden."
+      },
+      {
+        "source": {
+          "id": "die-zeit",
+          "name": "Die Zeit"
+        },
+        "author": "ZEIT ONLINE: News -",
+        "title": "Kryptowährungen: Bitcoin-Rekord jetzt bei mehr als 106.000 Dollar",
+        "description": "Hier finden Sie Informationen zu dem Thema „Kryptowährungen“. Lesen Sie jetzt „Bitcoin-Rekord jetzt bei mehr als 106.000 Dollar“.",
+        "url": "https://www.zeit.de/news/2024-12/16/bitcoin-rekord-jetzt-bei-mehr-als-106-000-dollar",
+        "urlToImage": "https://img.zeit.de/news/2024-12/16/bitcoin-rekord-jetzt-bei-mehr-als-106-000-dollar-image-group/wide__1300x731",
+        "publishedAt": "2024-12-16T06:56:47Z",
+        "content": "Der Bitcoin hat in der Nacht auf Montag ein weiteres Rekordhoch erreicht. Der Kurs der ältesten und bekanntesten Kryptowährung ist auf der Handelsplattform Bitstamp bis auf 106.533 US-Dollar gestiege… [+1021 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "A $6.2m banana, a crypto empire and Trump's potential conflicts",
+        "description": "Trump's expanding business ventures have made it easier than ever for those hoping to influence US policy to steer money his way.",
+        "url": "https://www.bbc.com/news/articles/c4gzz5wdg41o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13c7/live/f2871ff0-b4ca-11ef-aa0f-3bdc92ed360a.jpg",
+        "publishedAt": "2024-12-08T01:54:44Z",
+        "content": "Not long after buying and publicly consuming a $6.2m banana as part of an artworld stunt, Chinese crypto entrepreneur Justin Sun made another eye-catching purchase, investing $30m ($23.5m) into a cry… [+7554 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ritholtz.com"
+        },
+        "author": "Barry Ritholtz",
+        "title": "At the Money: Matt Hougan on Responsible Crypto Investing",
+        "description": "﻿     At the Money: Crypto Curious. November 26, 2024 Are you crypto-curious? Are you interested in owning some bitcoin, Ethereum, or other crypto-coins? How can investors get exposure to the space? Full transcript below. ~~~ About this week’s guest: Matt Hou…",
+        "url": "https://ritholtz.com/2024/11/atm-crypto-investing/",
+        "urlToImage": "https://ritholtz.com/wp-content/uploads/2024/04/At-the-Money.jpg",
+        "publishedAt": "2024-11-26T14:00:42Z",
+        "content": "At the Money: Crypto Curious. November 26, 2024\r\nAre you crypto-curious? Are you interested in owning some bitcoin, Ethereum, or other crypto-coins? How can investors get exposure to the space?\r\nFull… [+17318 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Vinamrata Chaturvedi",
+        "title": "President Vladimir Putin is Bitcoin's newest supporter",
+        "description": "Russian President Vladimir Putin, who was previously skeptical about Bitcoin, has now acknowledged that Bitcoin cannot be banned. Putin firmly asserted that Bitcoin and digital assets are unstoppable and would continue to evolve.Read more...",
+        "url": "https://qz.com/vladimir-putin-nobody-ban-bitcoin-1851713621",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/29cd91e1afcb3a77e87f124ca301fb5e.jpg",
+        "publishedAt": "2024-12-04T18:20:43Z",
+        "content": "Russian President Vladimir Putin, who was previously skeptical about Bitcoin, has now acknowledged that Bitcoin cannot be banned. Putin firmly asserted that Bitcoin and digital assets are unstoppable… [+1232 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Vinamrata Chaturvedi",
+        "title": "Bitcoin nears $100,000 as inflows boost Bitcoin ETFs",
+        "description": "Bitcoin came within striking distance of the historic $100,000 mark, reaching $99,645 on November 22. However, the cryptocurrency has since shown signs of hesitation, struggling to push past this milestone. Read more...",
+        "url": "https://qz.com/bitcoin-nears-100k-bitcoin-etfs-1851711382",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/07d4363d3516471c8895c14605b4da57.jpg",
+        "publishedAt": "2024-12-02T18:52:00Z",
+        "content": "In This Story\r\nBitcoin came within striking distance of the historic $100,000 mark, reaching $99,645 on November 22. However, the cryptocurrency has since shown signs of hesitation, struggling to pus… [+1951 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Faz.net"
+        },
+        "author": "Reuters",
+        "title": "Bitcoin steigt erstmals über 94.000 Dollar",
+        "description": "Gleich zwei Gründe werden für den Höhenflug der Digitalwährung genannt. Beide haben mit Donald Trump zu tun.",
+        "url": "https://www.faz.net/aktuell/wirtschaft/bitcoin-steigt-erstmals-ueber-94-000-dollar-110122512.html",
+        "urlToImage": "https://media0.faz.net/ppmedia/aktuell/finanzen/597660921/1.10076418/facebook_teaser/der-neue-bitcoin-guru-donald.jpg",
+        "publishedAt": "2024-11-20T08:06:47Z",
+        "content": "Für zusätzlichen Rückenwind dürfte ein Bericht der britischen Zeitung Financial Times gesorgt haben. Demnach soll die Trump Media and Technology Group kurz vor der Übernahme der Krypto-Handelsfirma B… [+288 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Yousra Anwar Ahmed",
+        "title": "What Happened in Crypto Today: Why Traders Are Obsessed With Next Week",
+        "description": "Here is a 2-minute breakdown of everything important that happened in crypto today.",
+        "url": "https://finance.yahoo.com/news/happened-crypto-today-why-traders-090110626.html",
+        "urlToImage": "https://media.zenfs.com/en/coinmarketcap_783/06a0a9e8edd4000dc4dde1c1476a800e",
+        "publishedAt": "2024-12-09T09:01:10Z",
+        "content": "What Happened in Crypto Today: Why Traders Are Obsessed With Next Week\r\nBitcoin just dropped below $100K for the fifth time this week.\r\nThose sell orders aren't slowing down.\r\nWhile Bitcoin is stumbl… [+4137 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Faz.net"
+        },
+        "author": "Reuters",
+        "title": "Währungen: Trump-Euphorie treibt Bitcoin-Preis erstmals über 100.000 Dollar",
+        "description": "Die Kryptowährung legte am Donnerstag etwa drei Prozent auf 103.620 Dollar zu. Eine Personalentscheidung Trumps dürfte die Hoffnung der Anleger beflügelt und so zum Kursanstieg geführt haben.",
+        "url": "https://www.faz.net/aktuell/wirtschaft/bitcoin-kurs-erstmals-ueber-100-000-dollar-110154609.html",
+        "urlToImage": "https://media0.faz.net/ppmedia/aktuell/wirtschaft/1192728315/1.10154616/facebook_teaser/die-kryptowaehrung-legte-am.jpg",
+        "publishedAt": "2024-12-05T05:44:52Z",
+        "content": "Die Investoren versprechen sich, dass der Wahlsieger Donald Trump eine kryptofreundliche Regulierung umsetzen wird. Die Party-Stimmung der Krypto-Szene wurde durch die Ankündigung von Trump angeheizt… [+5310 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Faz.net"
+        },
+        "author": "dpa",
+        "title": "Währungen: Trump-Euphorie treibt Bitcoin-Preis erstmals über 100.000 Dollar",
+        "description": "Die Kryptowährung legte am Donnerstag etwa drei Prozent auf 103.620 Dollar zu. Eine Personalentscheidung Trumps dürfte die Hoffnung der Anleger beflügelt und so zum Kursanstieg geführt haben.",
+        "url": "https://www.faz.net/aktuell/finanzen/bitcoin-kurs-erstmals-ueber-100-000-dollar-110154609.html",
+        "urlToImage": "https://media0.faz.net/ppmedia/aktuell/wirtschaft/1192728315/1.10154616/facebook_teaser/die-kryptowaehrung-legte-am.jpg",
+        "publishedAt": "2024-12-05T05:44:52Z",
+        "content": "Die Investoren versprechen sich, dass der Wahlsieger Donald Trump eine kryptofreundliche Regulierung umsetzen wird. Die Party-Stimmung der Krypto-Szene wurde durch die Ankündigung von Trump angeheizt… [+5310 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "heise online"
+        },
+        "author": "Nils Jacobsen",
+        "title": "So reagieren die Big-Tech-Aktien auf die Ära Trump 2.0",
+        "description": "Die zweite Amtszeit von Donald Trump hat Folgen für die Technologiebranche. An der Wall Street schlagen die Aktienkurse sofort seismografisch aus.",
+        "url": "https://www.heise.de/news/So-reagieren-die-Big-Tech-Aktien-auf-die-Aera-Trump-2-0-10082217.html",
+        "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/7/2/9/1/6/3/shutterstock_421955908-7a8e8d63ffd67f4d.jpg",
+        "publishedAt": "2024-11-21T07:50:00Z",
+        "content": "Inhaltsverzeichnis\r\nWas für einen Unterschied zwei Wochen machen können. So lange ist der Ausgang der amerikanischen Präsidentschaftswahl tatsächlich erst her. Die Kapitalmärkte haben reflexartig den… [+4740 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Presse-citron"
+        },
+        "author": "Jean-Yves Alric",
+        "title": "Pourquoi le Bitcoin vient de subir une baisse sensible ?",
+        "description": "Des déclarations et décisions de la Réserve fédérale jouent un rôle majeur.",
+        "url": "https://www.presse-citron.net/pourquoi-le-bitcoin-vient-de-subir-une-baisse-sensible/",
+        "urlToImage": "https://www.presse-citron.net/app/uploads/2024/04/bitcoin.jpg",
+        "publishedAt": "2024-12-19T10:25:25Z",
+        "content": "Le Bitcoin atteint des sommets historiques depuis plusieurs semaines. Mais une décision de la Banque centrale américaine (FED) et de son président, Jerome Powell, nont guère plus aux investisseurs. D… [+2452 chars]"
+      },
+      {
+        "source": {
+          "id": "die-zeit",
+          "name": "Die Zeit"
+        },
+        "author": "ZEIT ONLINE: Geld - Jens Tönnesmann",
+        "title": "Kryptowährung: Jetzt noch Bitcoin kaufen? Ja, leider schon!",
+        "description": "Ein Bitcoin ist mehr als 100.000 US-Dollar wert. Die Kryptowährung ist hochspekulativ und ungerecht. Aber wer nicht investiert, zahlt für die Lamborghinis der anderen.",
+        "url": "https://www.zeit.de/geld/2024-11/kryptowaehrung-bitcoin-investieren-geld-anlegen-kurs",
+        "urlToImage": "https://img.zeit.de/geld/2024-11/bitcoin-anleger-risiko/wide__1300x731",
+        "publishedAt": "2024-12-05T08:39:33Z",
+        "content": "Es ist schon beeindruckend: Ein Bitcoin ist mehr als 100.000 Dollar wert so viel wie noch nie zuvor. Allein seit der Wahl von Donald Trump zum neuen US-Präsidenten Anfang November ist der Kurs um gut… [+630 chars]"
+      },
+      {
+        "source": {
+          "id": "die-zeit",
+          "name": "Die Zeit"
+        },
+        "author": "ZEIT ONLINE: Internet - Kai Biermann",
+        "title": "Illegale Bitcoinbörse: Der Geldwäscher der Cyberkriminellen",
+        "description": "FBI, niederländische Polizei und BKA haben Tauschbörsen abgeschaltet, bei denen Kriminelle erpresste Bitcoin wuschen. Auch der Betreiber wurde festgenommen – in Russland.",
+        "url": "https://www.zeit.de/digital/internet/2024-12/illegale-bitcoinboerse-ransomware-bitcoin-cryptex-taleon-geldwaesche",
+        "urlToImage": "https://img.zeit.de/digital/internet/2024-12/illegale-bitcoinboerse-ransomware-bitcoin-cryptex-taleon-geldwaesche-bild-aufmacher/wide__1300x731",
+        "publishedAt": "2024-12-05T11:52:43Z",
+        "content": "Russische Polizisten stürmen mehrere Wohnungen, nehmen halb\r\nbekleidete Männer fest, die offensichtlich gerade noch im Bett lagen,\r\nbeschlagnahmen Millionen in Rubel und Dollar. Zu sehen sind diese B… [+699 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Vinamrata Chaturvedi",
+        "title": "Bitcoin just hit $100,000",
+        "description": "One Bitcoin is now worth $100,000—a monumental achievement for the cryptocurrency industry. The leading cryptocurrency hit an all-time high of $101,250 on the night of Wednesday, December 4, as investors continue to pour money into the spot Bitcoin ETFs. Acco…",
+        "url": "https://qz.com/bitcoin-price-hits-100-000-all-time-high-trump-crypto-1851704990",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3995f10fb263bfc470c2b8c1c0fdf4a7.jpg",
+        "publishedAt": "2024-12-05T02:50:00Z",
+        "content": "One Bitcoin is now worth $100,000a monumental achievement for the cryptocurrency industry. The leading cryptocurrency hit an all-time high of $101,250 on the night of Wednesday, December 4, as invest… [+2305 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Korben.info"
+        },
+        "author": "Korben",
+        "title": "Un MacBook historique entre au Smithsonian après un braquage de Bitcoin",
+        "description": "Installez-vous confortablement avec un bon petit café ou votre petit thé préféré, car ce soir, je vais vous raconter une histoire digne d’un film hollywoodien.\nLe héro de cette histoire est un simple MacBook Pro qui vient de faire son entrée au prestigieux mu…",
+        "url": "https://korben.info/macbook-historique-smithsonian-braquage-bitcoin-razzlekhan.html",
+        "urlToImage": "https://korben.info/macbook-historique-smithsonian-braquage-bitcoin-razzlekhan/manu23_Bitcoin_in_the_Smithsonian_museum_8a88b0cf-cf97-4bde-991a-27470be92216-copie.webp",
+        "publishedAt": "2024-11-20T20:57:08Z",
+        "content": "Installez-vous confortablement avec un bon petit café ou votre petit thé préféré, car ce soir, je vais vous raconter une histoire digne d’un film hollywoodien.\r\nLe héro de cette histoire est un simpl… [+4285 chars]"
+      },
+      {
+        "source": {
+          "id": "time",
+          "name": "Time"
+        },
+        "author": "Vijay Kolinjivadi and Aaron Vansintjan",
+        "title": "The Trouble With the Ultra-Rich’s Environmentalism",
+        "description": "Zero-carbon mansions and super-yachts are less a sign of a sustainable future than a highly exclusive one.",
+        "url": "https://time.com/7200268/ultrarich-environmentalism-greenwashing/",
+        "urlToImage": "https://api.time.com/wp-content/uploads/2024/12/GettyImages-1424381503.jpg?quality=85&w=1200&h=628&crop=1",
+        "publishedAt": "2024-12-14T12:00:00Z",
+        "content": "In California, the real estate developer Marisol Malibu made waves when they sold a supposedly green $23 million mansion with nine bathrooms, 20 ft. ceilings, golf greens, a heated saltwater pool, a … [+4592 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Quartz India"
+        },
+        "author": "Vinamrata Chaturvedi",
+        "title": "5 countries that own the most Bitcoin",
+        "description": "The Winklevoss twins, Tyler and Cameron, are among the most prominent figures in the cryptocurrency space, with their Bitcoin holdings estimated at around 70,000 Bitcoin. Similarly, Elon Musk’s Tesla holds 11,509 Bitcoin, further solidifying the involvement o…",
+        "url": "https://qz.com/countries-bitcoin-owners-holdings-us-china-el-salvador-1851708770",
+        "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bb4651f5895e0921f77fd23a1d1bfc37.jpg",
+        "publishedAt": "2024-12-03T10:00:00Z",
+        "content": "In 2021, El Salvador made history as the first country in the world to adopt Bitcoin as legal tender, marking a bold step in integrating cryptocurrency into its national economy. President Nayib Buke… [+739 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Faz.net"
+        },
+        "author": "Tim Niendorf",
+        "title": "El Salvadors Gefängnisse: „Es ist, als käme man in die Hölle“",
+        "description": "El Salvadors Präsident Bukele hat in seinem Land die Bandengewalt beendet. Ausgerechnet Trump glaubt ihm das vermeintliche Wunder nicht. Über die Abgründe im Bitcoin- und Surferparadies.",
+        "url": "https://www.faz.net/aktuell/politik/ausland/el-salvadors-gefaengnisse-es-ist-als-kaeme-man-in-die-hoelle-110151243.html",
+        "urlToImage": "https://media1.faz.net/ppmedia/aktuell/politik/229519595/1.10151241/facebook_teaser/kein-kontakt-zur-aussenwelt.jpg",
+        "publishedAt": "2024-12-04T09:25:50Z",
+        "content": "Es heißt, einige im Gefängnis sollen nichts so Schlimmes gemacht haben. Das mag stimmen oder nicht, sagt Armando. Aber endlich könnten die Leute gefahrlos aus ihren Häusern gehen, nach all den Jahren… [+15491 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Torrentfreak.com"
+        },
+        "author": "Ernesto Van der Sar",
+        "title": "The Pirate Bay’s Million-Dollar Bitcoin Donations: Hidden Goldmine or Spent Treasure?",
+        "description": "For over a decade, The Pirate Bay has been accepting Bitcoin donations. In dollar terms, this provided a relatively modest but consistent revenue stream. However, if the torrent site had held onto its early Bitcoin, it could have amassed a small fortune, wort…",
+        "url": "https://torrentfreak.com/the-pirate-bays-million-dollar-bitcoin-donations-hidden-goldmine-or-spent-treasure-241216/",
+        "urlToImage": "https://torrentfreak.com/images/bitcoin-featured.jpg",
+        "publishedAt": "2024-12-16T20:01:39Z",
+        "content": "It’s been three years since we last checked in on The Pirate Bay’s Bitcoin wallet. \r\nWhile the torrent site may not be raking in the digital dough like it used to, the donations keep trickling in.\r\nB… [+4188 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Presse-citron"
+        },
+        "author": "Camille Coirault",
+        "title": "Quelles sont les cryptomonnaies préférées des Français en 2024 ?",
+        "description": "Les cryptos attirent les Français comme jamais.",
+        "url": "https://www.presse-citron.net/quelles-sont-les-cryptomonnaies-preferees-des-francais-en-2024/",
+        "urlToImage": "https://www.presse-citron.net/app/uploads/2024/12/pexels-martabranco-1263324.jpg",
+        "publishedAt": "2024-12-05T11:01:11Z",
+        "content": "La frénésie autour des cryptomonnaies ne faiblit pas en France. L’année 2024 marque toutefois un réel tournant dans les habitudes d’investissement numériques des Français, qui affichent désormais des… [+3925 chars]"
+      }
+    ]
+  }
