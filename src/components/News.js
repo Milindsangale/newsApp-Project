@@ -2,6 +2,18 @@ import React, { Component } from 'react'        /*  rce shortcut */
 import NewsItem from './NewsItem'
 
 export class News extends Component {
+  constructor() {
+    super();
+    console.log("I am constructor from NewsItem component");
+    this.state = {
+      articles: [],
+      loading: false
+    }
+  }
+ 
+ 
+ 
+ 
   render() {
     return (
       <div className="container my-3">
@@ -15,15 +27,7 @@ export class News extends Component {
                 </div>
                 <div className= "col-md-4"> 
                     <NewsItem title ="myTitle" description ="mydesc"/>
-               {/*  </div>
-                <div className= "col-md-4"> 
-                    <NewsItem title ="myTitle" description ="mydesc"/>
-                </div>
-                <div className= "col-md-4"> 
-                    <NewsItem title ="myTitle" description ="mydesc"/>
-                </div>
-                <div className= "col-md-4"> 
-                    <NewsItem title ="myTitle" description ="mydesc"/> */}
+          
                 </div>
            </div>
       </div>
